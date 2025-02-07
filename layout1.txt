@@ -1,0 +1,16 @@
+<base>
+[up]>[down]
+[down]>[up]
+[rwin]>[rctr]
+[rctr]>[caxx]
+[del]>[caps]
+[home]>[end]
+[pgup]>[ralt]
+[end]>[lwin]
+[pgdn]>[lwin]
+{hk4}>{s9}{x1}{-lwin}{tab}{+lwin}
+{hk2}>{s5}{x1}{-lctr}{z}{+lctr}
+<keypad>
+<function1>
+<function2>
+<function3>
